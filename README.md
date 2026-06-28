@@ -1,4 +1,4 @@
-# Desafio — Estágio Python (b2bflow)
+# Desafio — Python (b2bflow)
 
 Script que busca contatos cadastrados no Supabase e envia uma mensagem personalizada para cada um via WhatsApp, usando a Z-API.
 
@@ -110,4 +110,4 @@ python main.py
 
 ---
 
-Kauã da Silva Gonçalves — desafio técnico para Estágio em Desenvolvimento Python, b2bflow.
+Kauã da Silva Gonçalves — desafio técnico de Desenvolvimento Python, b2bflow.

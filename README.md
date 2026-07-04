@@ -1,4 +1,4 @@
-# Desafio — Python (b2bflow)
+# Automação — Python 
 
 Script que busca contatos cadastrados no Supabase e envia uma mensagem personalizada para cada um via WhatsApp, usando a Z-API.
 
@@ -110,4 +110,4 @@ python main.py
 
 ---
 
-Kauã da Silva Gonçalves — desafio técnico de Desenvolvimento Python, b2bflow.
+Desenvolvido por - Kauã da Silva Gonçalves
